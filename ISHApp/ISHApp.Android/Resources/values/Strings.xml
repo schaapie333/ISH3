@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">CWenD ISHApp</string>
+	<string name="beschikbaarheid_tab_label">Beschikbaarheid</string>
+	<string name="actueel_tab_label">Actueel</string>
+	<string name="historie_tab_label">Historie</string>
+</resources>
